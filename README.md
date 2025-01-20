@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a **self-taught Full Stack Web Developer** wit
 
 ## 📂 Featured Projects
 
-Here are some highlights from my portfolio:
+Here are some highlights:
 
 - **[Personal Portfolio](https://yagoclaros.dev)**: A fully responsive portfolio showcasing my skills and projects.
 
