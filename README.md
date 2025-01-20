@@ -23,6 +23,7 @@ Here are some highlights:
 
 - Unreal Engine Blueprints
 - React Testing with Jest
+- Computer Engineering at UOC
 
 ## 💬 Let's Connect
 
